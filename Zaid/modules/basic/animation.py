@@ -644,6 +644,34 @@ async def zeyenk(client: Client, message: Message):
     await e.edit("LOVE YOU 💞")
 
 
+@Client.on_message(filters.command(["Terapapa", "subkabaap","baagmc","Warriors"], ".") & filters.me)
+async def zeyenk(client: Client, message: Message):
+    e = await edit_or_reply(message, "🛑🛑Baag Mc Warriors Wale Aa Gye🔥🚨🚨🚧")
+    await e.edit("🚳🚭🚯🚱🚷📵🔕🔇")
+    await e.edit("⚠️⚠️⚠️⚠️⚠️ WARNING ⚠️⚠️⚠️⚠️⚠️")
+    await e.edit("🔺🔺🔺🔺🔺🔺🔺🔺")
+    await e.edit("🖕🖕🖕🖕🖕🖕🖕🖕")
+    await e.edit("🔥🔥🔥✨✨🔥🔥💫")
+    await e.edit("🚨🚨🚨🚨🚨🚨🚨🚨")
+    await e.edit("Baag jaa mc time hai. 🖕🖕🖕⚠️⚠️")
+    await e.edit("🌊🌊🌊🌊🌊🌊🌊🌊🌊")
+    await e.edit("👾👾👾👾👾👾👾👾👾")
+    await e.edit("👽👽👽👽👽👽👽👽👽")
+    await e.edit("KIDS")
+    await e.edit("Baag Javo")
+    await e.edit("papa aa gye tere 🥰")
+    await e.edit("🔒🔓🔒🔓🔒🔓🔒🔒")
+    await e.edit("Tere")
+    await e.edit("Papa")
+    await e.edit("Warriors")
+    await e.edit("Wale")
+    await e.edit("Teri aaj gand marenge")
+    await e.edit("Mera beta😘")
+    await e.edit("☢️☢️☢️☢️☢️☢️☣️")
+    await e.edit("🌊🌙⚜️💦💦")
+    await e.edit("Aaage warriors wale ⚠️⚠️⚠️⚠️")
+    
+
 @Client.on_message(filters.command("gabut", ".") & filters.me)
 async def menggabut(client: Client, message: Message):
     e = await edit_or_reply(message, "`GO AWAY`")
